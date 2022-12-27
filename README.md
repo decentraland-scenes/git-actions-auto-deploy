@@ -1,6 +1,20 @@
-# Decentraland scene
+# Using Git Actions To Deploy A Scene
 
 This folder contains all the necessary files to launch a Decentraland scene.
+
+You will find the github actions defined [here](https://github.com/decentraland-scenes/git-actions-auto-deploy/tree/develop/.github/workflows)
+
+Steps
+
+1. Decide which branch will be used to deploy a scene and update your git action file to target that branch
+* Add the private key for the wallet that has operator rights (for a scene deployed in world) OR wallet that has the DCL name for which you will be deploying to worlds.
+* Merge changes to the decided branch
+* Check the action logs if deploy was successful
+
+## Video Tutorial
+
+[TODO](TODO)
+
 
 ## Try it out
 
