@@ -35,7 +35,7 @@
     }
   ],
   "worldConfiguration" : {
-    "dclName": "caine.dcl.eth"
+    "name": "caine.dcl.eth"
   },
   "requiredPermissions": [],
   "featureToggles": {}
