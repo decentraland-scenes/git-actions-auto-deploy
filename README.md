@@ -4,6 +4,10 @@ This folder contains all the necessary files to launch a Decentraland scene.
 
 You will find the github actions defined [here](https://github.com/decentraland-scenes/git-actions-auto-deploy/tree/develop/.github/workflows)
 
+Using SDK7. See [here](https://github.com/decentraland-scenes/git-actions-auto-deploy-sdk7).  workflow actions do not change but package.json does a little
+
+[https://github.com/decentraland-scenes/git-actions-auto-deploy-sdk7](https://github.com/decentraland-scenes/git-actions-auto-deploy-sdk7)
+
 Steps
 
 1. Decide which branch will be used to deploy a scene and update your git action file to target that branch
