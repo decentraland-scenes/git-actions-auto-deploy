@@ -4,7 +4,8 @@ This folder contains all the necessary files to launch a Decentraland scene.
 
 You will find the github actions defined [here](https://github.com/decentraland-scenes/git-actions-auto-deploy/tree/develop/.github/workflows)
 
-Using SDK7. See [here](https://github.com/decentraland-scenes/git-actions-auto-deploy-sdk7).  workflow actions do not change but package.json does a little
+#### Using SDK7?
+See [here](https://github.com/decentraland-scenes/git-actions-auto-deploy-sdk7).  workflow actions for SDK7 do not change but package.json does a little
 
 [https://github.com/decentraland-scenes/git-actions-auto-deploy-sdk7](https://github.com/decentraland-scenes/git-actions-auto-deploy-sdk7)
 
